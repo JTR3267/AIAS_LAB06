@@ -459,13 +459,3 @@ void sudoku_2x2_c(char *test_c_data){
 > 請放上你在 docker中的 rv32emu模擬結果，驗證程式碼的正確性。 (螢幕截圖即可)
 
 ![](https://course.playlab.tw/md/uploads/b2d4508c-0bd1-4801-b8c4-ffe4ea0133c5.png)
-
-## Bonus
-### Step 1 C Implementation
-> 請放上你C程式碼並加上註解，讓 TA明白你是如何完成的。
-> 
-### Step 2 Assembly Implementation
-> 請放上你Assembly程式碼並加上註解，同時驗證程式碼的正確性。把驗證的結果截圖貼上
-
-### Step 3 Performance Optimization
-我們用Instruction Count 來代表performance 的測量metric 的話, 你能怎麼優化你的Assmbly implementation呢？
